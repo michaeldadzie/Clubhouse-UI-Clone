@@ -1,6 +1,5 @@
 # Clubhouse UI Clone
 
-Clubhouse UI Clone
 A [Flutter](https://flutter.dev/) implementation of a Clubhouse UI design by [ZeezCrypto](https://twitter.com/ZeezCrypto)
 
 ## Screenshots
